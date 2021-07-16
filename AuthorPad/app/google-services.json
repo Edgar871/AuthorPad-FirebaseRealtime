@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841648334924",
+    "firebase_url": "https://authorpad-317506-default-rtdb.firebaseio.com",
+    "project_id": "authorpad-317506",
+    "storage_bucket": "authorpad-317506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841648334924:android:ecd2c4441744f1a709ece9",
+        "android_client_info": {
+          "package_name": "com.example.authorpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841648334924-agrg0nc45oiobgo4iirsc9cgdkb5sspv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBND4wQPPhgDHYLiEQXiGv2jEBe0Qzah6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841648334924-agrg0nc45oiobgo4iirsc9cgdkb5sspv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
